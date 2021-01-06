@@ -9,10 +9,11 @@ font-size: 30px;
 color: dodgerblue;
 }
 
-Img.intro{
-image-width: 200px;
-}
+img.intro{
+    width: 50%;
+    height: auto;
+  }
 
-h1.flashy{
+span.flashy{
   color:red;
 }
