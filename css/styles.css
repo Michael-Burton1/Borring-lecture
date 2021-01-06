@@ -1,0 +1,18 @@
+h2.intro{
+ font-style: italic;
+ font-style: Bold;
+ font-family:sans-serif;
+ }
+
+p.intro{
+font-size: 30px;
+color: dodgerblue;
+}
+
+Img.intro{
+image-width: 200px;
+}
+
+h1.flashy{
+  color:red;
+}
