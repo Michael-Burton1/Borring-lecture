@@ -1,9 +1,10 @@
-h2.intro{
+ .intro{
  font-style: italic;
  font-style: Bold;
  font-family:sans-serif;
  }
-
+ 
+/*
 p.intro{
 font-size: 30px;
 color: dodgerblue;
@@ -13,6 +14,7 @@ img.intro{
     width: 50%;
     height: auto;
   }
+  */
 
 span.flashy{
   color:red;
